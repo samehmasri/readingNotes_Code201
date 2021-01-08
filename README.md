@@ -5,3 +5,7 @@
 Name | Link
 ------------ | -------------
 Read 1 | https://samehmasri.github.io/readingNotes_Code201/read1
+Read 2 | https://samehmasri.github.io/readingNotes_Code201/read2
+Read 3 | https://samehmasri.github.io/readingNotes_Code201/read3
+Read 4 | https://samehmasri.github.io/readingNotes_Code201/read4
+Read 5 | https://samehmasri.github.io/readingNotes_Code201/read5
